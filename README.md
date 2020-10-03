@@ -1,4 +1,5 @@
 # pacman
+video demo : https://drive.google.com/folderview?id=1rP5enRNLfMUhPg10BAOuE6ItBY8qsQ5y
 # pacman
 Câu 1: Tìm kiếm theo chiều sâu:
     B1: Tạo biến lưu các đỉnh đang xét và hàng đợi lưu các đỉnh đang xét, biến lưu các bước đi tự đầu đến nút hiện tại.
